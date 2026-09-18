@@ -4,7 +4,7 @@ import pandas as pd
 import os
 
 # Load model
-model = joblib.load("updated_model (1).pkl")
+model = joblib.load("updated_model(1).pkl")
 
 
 def predict_result(study_hours):
